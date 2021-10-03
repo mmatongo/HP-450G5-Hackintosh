@@ -26,35 +26,35 @@ For easy identification only chenage the sections hat say `GenerateYourOwn` in t
 The section you're editing looks like this.
 
 ```plist
-    <key>PlatformInfo</key>
-    <dict>
-		<key>Automatic</key>
-		<true/>
-		<key>CustomMemory</key>
-		<false/>
-		<key>Generic</key>
-		<dict>
-			<key>AdviseFeatures</key>
-			<false/>
-			<key>MLB</key>
-			<string>GenerateYourOwn</string>
-			<key>MaxBIOSVersion</key>
-			<false/>
-			<key>ProcessorType</key>
-			<integer>0</integer>
-			<key>ROM</key>
-			<data>GenerateYourOwn</data>
-			<key>SpoofVendor</key>
-			<true/>
-			<key>SystemMemoryStatus</key>
-			<string>Auto</string>
-			<key>SystemProductName</key>
-			<string>iMac18,1</string>
-			<key>SystemSerialNumber</key>
-			<string>GenerateYourOwn</string>
-			<key>SystemUUID</key>
-			<string>GenerateYourOwn</string>
-		</dict>
+<key>PlatformInfo</key>
+<dict>
+<key>Automatic</key>
+<true/>
+<key>CustomMemory</key>
+<false/>
+<key>Generic</key>
+<dict>
+    <key>AdviseFeatures</key>
+ 	<false/>
+ 	<key>MLB</key>
+ 	<string>GenerateYourOwn</string>
+ 	<key>MaxBIOSVersion</key>
+ 	<false/>
+ 	<key>ProcessorType</key>
+ 	<integer>0</integer>
+ 	<key>ROM</key>
+ 	<data>GenerateYourOwn</data>
+ 	<key>SpoofVendor</key>
+ 	<true/>
+ 	<key>SystemMemoryStatus</key>
+ 	<string>Auto</string>
+ 	<key>SystemProductName</key>
+ 	<string>iMac18,1</string>
+ 	<key>SystemSerialNumber</key>
+ 	<string>GenerateYourOwn</string>
+ 	<key>SystemUUID</key>
+	<string>GenerateYourOwn</string>
+</dict>
 ```
          
 6. After that take a snapshot of the OC folder by clicking `file` -> `OC snapshot` then saving and doing the same process again but this time choose `OC Clean snapshot`.
