@@ -25,7 +25,7 @@ For easy identification only chenage the sections hat say `GenerateYourOwn` in t
 
 The section you're editing looks like this.
 
-```plist
+```
 <key>PlatformInfo</key>
 <dict>
 <key>Automatic</key>
