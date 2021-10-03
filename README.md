@@ -1,7 +1,7 @@
 ## USAGE
 
 The contents of this repo are only meant to be used on the HP Probook 450 G5 i5-8250u.
-This is the only existing Opencore config for this model of the G5.
+This is the only existing Opencore config for this model of the G5 and must only be used to boot Big Sur.
 
 ## PREPARATION
     
