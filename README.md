@@ -63,12 +63,13 @@ The section you're editing looks like this.
 - WiFi
 - Bluetooth
 - Touchpad
-- Volume control
+- Volume control 
 - Keyboard
-- Screen brightness
+- Screen brightness - (Use MonitorControl app to use brightness control)
 - Screen resolution
 - iServices (SMBIOS dependant).
 
 ## WHAT DOES NOT WORK
 - Airdrop
 - Airplay
+- Bluetooth
